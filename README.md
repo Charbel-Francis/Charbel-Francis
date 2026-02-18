@@ -1,6 +1,10 @@
 # Hi, I’m Charbel Francis! 👋
 
-I am a passionate software developer interested in Java, Web Development, and C#. Currently, I am actively learning and improving my skills in software development.
+
+
+Backend-focused Software Developer with 4+ years of experience designing and developing scalable web applications. Advanced proficiency in Python and Django, specializing in API development, database modeling, automation, and system architecture. Strong experience integrating third-party services, authentication systems, and background task processing.
+
+Skilled in full-stack development using React, Node.js, .NET, Java, and Flutter, with hands-on experience in Linux (Ubuntu) server configuration, deployment, and DevOps fundamentals. Passionate about writing clean, efficient code and continuously improving system performance and reliability.
 
 ![GIF](https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif)
 
