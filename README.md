@@ -34,8 +34,3 @@ Skilled in full-stack development using React, Node.js, .NET, Java, and Flutter,
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-3ea5ea?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charbel-francis&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charbel-francis&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charbel-francis&langs_count=3&theme=chartreuse-dark&hide_border=true&show_icons=true&hide=html,css,glsl)
